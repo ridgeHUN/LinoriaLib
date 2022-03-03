@@ -1,4 +1,4 @@
-Library = loadstring(game:HttpGet('https://lindseyhost.com/UI/LinoriaLib.lua'))();
+Library = loadstring(game:HttpGet('https://pastebin.com/raw/he45Vb4q'))();
 
 local Fonts = {};
 for Font, _ in next, Drawing.Fonts do
